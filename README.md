@@ -1,7 +1,7 @@
 # Frontend
 https://github.com/sachinkaru123/inventory-with-websocket-next-fe
 # Backend 
-https://github.com/sachinkaru123/inventory-with-websocket-express-redis
+https://github.com/sachinkaru123/inventory-with-websocket-laravel-api
 
 # Real-time Inventory WebSocket Server with Redis
 
