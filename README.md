@@ -1,3 +1,8 @@
+# Frontend
+https://github.com/sachinkaru123/inventory-with-websocket-next-fe
+# Backend 
+https://github.com/sachinkaru123/inventory-with-websocket-express-redis
+
 # Real-time Inventory WebSocket Server with Redis
 
 A Node.js WebSocket server that provides real-time inventory updates and alerts by subscribing to Redis channels. This server acts as a bridge between Laravel backend events and frontend clients, enabling real-time notifications for inventory management systems.
